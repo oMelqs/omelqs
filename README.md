@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melquisedeque Linhares</h1>
 <h3 align="center">Front End Software Engineer at iFood for Invillia.</h3>
-<h3 align="center">Analysis and Systems Development Studdent at Mackenzie University</h3>
+<h3 align="center">Analysis and Systems Development Student at Mackenzie University</h3>
 
 <br>
 
