@@ -8,6 +8,7 @@
 
 <p><small>Software developer oriented towards learning, dedication and results, with solid knowledge of systems analysis, architecture and programming. I have experience with all software development processes, from architecture and planning, design thinking, user interface and experience, database modeling, development and testing, product design and distribution, with greater expertise in the front-end development area in web and mobile environment.</small></p>
 
+<br>
 
 - 📫 How to reach me: **melquisedeque.linhares@gmail.com**
 
