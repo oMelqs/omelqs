@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melquisedeque Linhares</h1>
-<h3 align="center">Front End Software Engineer at iFood for Invillia.</h3>
-<h3 align="center">Analysis and Systems Development Student at Mackenzie University</h3>
+<h3 align="center">Mobile Software Engineer at Dasa.</h3>
+<h3 align="center">Analysis and Systems Development Student at Instituto Federal de Rio Grande.</h3>
 
 <br>
 
