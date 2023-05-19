@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melquisedeque Linhares</h1>
-<h3 align="center">Mobile Software Engineer at Dasa.</h3>
-<h3 align="center">Analysis and Systems Development Student at Instituto Federal de Rio Grande.</h3>
+<h3 align="center">Software Engineer.</h3>
 
 <br>
 
